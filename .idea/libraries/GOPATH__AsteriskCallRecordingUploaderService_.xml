@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;AsteriskCallRecordingUploaderService&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ServiceDeskSysAidMigrationTool" />
+      <root url="file://$PROJECT_DIR$/../RecordingDashboard" />
+      <root url="file://$PROJECT_DIR$/../SessionsManager" />
+      <root url="file://$PROJECT_DIR$/../LPManager" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../POC" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../DeploySystem" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ServiceDeskSysAidMigrationTool" />
+      <root url="file://$PROJECT_DIR$/../RecordingDashboard" />
+      <root url="file://$PROJECT_DIR$/../SessionsManager" />
+      <root url="file://$PROJECT_DIR$/../LPManager" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../POC" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../DeploySystem" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
